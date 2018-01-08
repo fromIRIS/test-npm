@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.1",
+    "lodash": "^4.16.1",
     "spon-ui": "^0.2.0"
   }
 }
